@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalbo-gj&label=Profile%20views&color=0e75b6&style=flat" alt="zalbo-gj" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-tau-liard-84.vercel.app/](https://my-portfolio-tau-liard-84.vercel.app/)
+<!--- 👨‍💻 All of my projects are available at [https://my-portfolio-tau-liard-84.vercel.app/](https://my-portfolio-tau-liard-84.vercel.app/) -->
 
 - 💬 Ask me about **React, Flutter, Nodejs**
 
